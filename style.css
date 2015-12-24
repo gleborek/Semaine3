@@ -1,15 +1,15 @@
-.body {
+body {
     background-color : grey;
 }
 
-.li {
+li {
     list-style-type : circle;
 }
 
-.main {
+main {
     padding : 50px ;
 }
 
-.p {
+p {
     color : red;
 }
