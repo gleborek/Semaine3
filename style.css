@@ -1,0 +1,16 @@
+body {
+    background-color : grey;
+}
+
+li {
+    list-style-type : circle;
+}
+
+main {
+    padding : 50px ;
+}
+
+p {
+    color : red;
+    
+}
